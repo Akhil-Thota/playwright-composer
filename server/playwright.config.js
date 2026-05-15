@@ -6,6 +6,6 @@ export default defineConfig({
   retries: 0,
   reporter: [['list'], ['html', { outputFolder: 'playwright-report', open: 'never' }]],
   use: {
-    headless: true
+    headless: false
   }
 });
