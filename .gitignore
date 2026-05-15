@@ -1,0 +1,7 @@
+node_modules/
+dist/
+coverage/
+server/generated/
+server/recordings/
+playwright-report/
+test-results/
